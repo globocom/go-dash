@@ -5,8 +5,8 @@ import (
 	"testing"
 	"time"
 
+	"github.com/globocom/go-dash/helpers/testfixtures"
 	"github.com/stretchr/testify/require"
-	"github.com/zencoder/go-dash/helpers/testfixtures"
 )
 
 func TestReadingManifests(t *testing.T) {

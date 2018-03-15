@@ -5,8 +5,8 @@ import (
 	"encoding/xml"
 	"testing"
 
+	. "github.com/globocom/go-dash/helpers/ptrs"
 	"github.com/stretchr/testify/require"
-	. "github.com/zencoder/go-dash/helpers/ptrs"
 )
 
 const (
